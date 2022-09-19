@@ -1,4 +1,4 @@
-# pitza_app
+# pizza_app
 
 
 
